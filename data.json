@@ -1,0 +1,139 @@
+{
+	"products":[
+{
+	"name":"Lenovo",
+	"Price":"9999/-",
+	"image":"images/mobile5.jpeg"
+},
+{
+	"name":"redmi-note5",
+	"Price":"18000/-",
+	"image":"images/redmi4a.jpeg"
+},
+{
+	"name":"Mobile Pouch",
+	"Price":"399/-",
+	"image":"images/mobile pouch1.jpeg"
+},
+{
+	"name":"Mobile pouch",
+	"Price":"499/-",
+	"image":"images/mobile pouch.jpeg"
+},
+{
+	"name":"mobile kit",
+	"Price":"9000/-",
+	"image":"images/mobile kit.jpeg"
+},
+{
+	"name":"Mobile holder",
+	"Price":"4999/-",
+	"image":"images/Mobile hoder.jpeg"
+},
+{
+	"name":"Mobile kit",
+	"Price":"4999/-",
+	"image":"images/mobile kit3.jpeg"
+}
+	],
+
+	"Mens":[
+	{
+	"image":"images/men2.jpeg",
+	"brand":"polo",
+	"price":"500"
+},
+{
+	"image":"images/men3.jpeg",
+	"brand":"linen",
+	"price":"500"
+},
+{
+	"image":"images/men -kurta.jpeg",
+	"brand":"wrangler",
+	"price":"1500"
+},
+
+{
+	"image":"images/men-kurta-2.jpeg",
+	"brand":"Kurta",
+	"price":"1000"
+},
+
+{
+	"image":"images/men-suit.jpeg",
+	"brand":"Suit",
+	"price":"12000"
+},
+
+{
+	"image":"images/men-suit3.jpeg",
+	"brand":"Suit",
+	"price":"15000"
+}
+
+],
+
+
+	"Womens":[
+	{
+	"image":"images/women1.jpeg",
+	"brand":"Pattu Sarees",
+	"price":"5900"
+},
+{
+	"image":"images/women-2.jpeg",
+	"brand":"Dresses",
+	"price":"569"
+},
+{
+	"image":"images/women2.jpeg",
+	"brand":"Single Pattu Saree",
+	"price":"1000"
+},
+
+{
+	"image":"images/women-d.jpeg",
+	"brand":"Party ware",
+	"price":"7999"
+},
+
+{
+	"image":"images/women.jpeg",
+	"brand":"Floor touch-blue",
+	"price":"4500"
+},
+
+{
+	"image":"images/women dress1.jpeg",
+	"brand":"Floor touch-red",
+	"price":"5500"
+}
+
+],
+
+"kids":[
+
+{
+"image":"images/kids6.jpeg",
+	"brand":"kids T-shirt",
+	"price":"500"
+},
+{
+"image":"images/kids2.jpeg",
+	"brand":"kids Kurta",
+	"price":"5000"
+},
+
+{
+"image":"images/kids3.jpeg",
+	"brand":"kids kurtas",
+	"price":"1200"
+},
+{
+"image":"images/kids8.jpeg",
+	"brand":"Spider man",
+	"price":"2000"
+}
+]
+}
